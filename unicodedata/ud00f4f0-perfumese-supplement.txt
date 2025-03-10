@@ -1,0 +1,6 @@
+@flag --perfumese-supplement
+@file Blocks.txt
+F4F0..F4FF; Perfumese Supplement
+@file UnicodeData.txt
+F4F0;PERFUMESE PROLONGED SOUND MARK;Po;0;ON;;;;;N;;;;;
+F4F1;PERFUMESE MODIFIER LETTER CAPITALS;Lm;0;L;;;;;N;;;;;

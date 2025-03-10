@@ -3,7 +3,7 @@
 @file Blocks.txt
 ED60..ED7F; Perfumese
 @file UnicodeData.txt
-ED60;PERFUMESE LETTER GLOTTAL STOP;Lo;0;L;;;;;N;;;;;
+ED60;PERFUMESE LETTER AE;Lo;0;L;;;;;N;;;;;
 ED61;PERFUMESE LETTER A;Lo;0;L;;;;;N;;;;;
 ED62;PERFUMESE LETTER E;Lo;0;L;;;;;N;;;;;
 ED63;PERFUMESE LETTER I;Lo;0;L;;;;;N;;;;;

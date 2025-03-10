@@ -1,3 +1,0 @@
-@flag --ochanormese
-@file Blocks.txt
-FF650..FF6AF; Ochanormese
